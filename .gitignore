@@ -298,5 +298,4 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
-data/**/*
 data/survey_results_public.csv
